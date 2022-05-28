@@ -169,7 +169,7 @@ class _HomeTodoState extends State<HomeTodo> {
           child: CircleAvatar(
             backgroundColor: Colors.grey.shade900,
             child: CircleAvatar(
-                backgroundColor: Colors.white, child: Icon(Icons.person)),
+                backgroundColor: Colors.white, child: Icon(Icons.house)),
           ),
         ),
         Padding(

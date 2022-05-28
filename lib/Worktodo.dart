@@ -170,7 +170,7 @@ class _WorkTodoState extends State<WorkTodo> {
           child: CircleAvatar(
             backgroundColor: Colors.grey.shade900,
             child: CircleAvatar(
-                backgroundColor: Colors.white, child: Icon(Icons.person)),
+                backgroundColor: Colors.white, child: Icon(Icons.business_center_rounded)),
           ),
         ),
         Padding(
