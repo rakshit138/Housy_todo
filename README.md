@@ -1,5 +1,7 @@
 # housy_todo
 
+Housy todo app clone
+Assessment
 A new Flutter project.
 
 ## Getting Started
